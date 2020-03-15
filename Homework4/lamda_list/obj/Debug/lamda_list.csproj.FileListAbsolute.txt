@@ -1,0 +1,6 @@
+C:\Users\李大王\source\repos\lamda_list\bin\Debug\lamda_list.exe.config
+C:\Users\李大王\source\repos\lamda_list\bin\Debug\lamda_list.exe
+C:\Users\李大王\source\repos\lamda_list\bin\Debug\lamda_list.pdb
+C:\Users\李大王\source\repos\lamda_list\obj\Debug\lamda_list.csprojAssemblyReference.cache
+C:\Users\李大王\source\repos\lamda_list\obj\Debug\lamda_list.exe
+C:\Users\李大王\source\repos\lamda_list\obj\Debug\lamda_list.pdb
