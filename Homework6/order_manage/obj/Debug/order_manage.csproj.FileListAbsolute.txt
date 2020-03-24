@@ -1,0 +1,6 @@
+C:\Users\李大王\source\repos\order_manage\bin\Debug\order_manage.exe.config
+C:\Users\李大王\source\repos\order_manage\bin\Debug\order_manage.exe
+C:\Users\李大王\source\repos\order_manage\bin\Debug\order_manage.pdb
+C:\Users\李大王\source\repos\order_manage\obj\Debug\order_manage.csprojAssemblyReference.cache
+C:\Users\李大王\source\repos\order_manage\obj\Debug\order_manage.exe
+C:\Users\李大王\source\repos\order_manage\obj\Debug\order_manage.pdb
