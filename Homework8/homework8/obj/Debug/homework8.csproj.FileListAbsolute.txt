@@ -1,0 +1,11 @@
+C:\Users\李大王\source\repos\homework8\bin\Debug\homework8.exe.config
+C:\Users\李大王\source\repos\homework8\bin\Debug\homework8.exe
+C:\Users\李大王\source\repos\homework8\bin\Debug\homework8.pdb
+C:\Users\李大王\source\repos\homework8\obj\Debug\homework8.Form1.resources
+C:\Users\李大王\source\repos\homework8\obj\Debug\homework8.Properties.Resources.resources
+C:\Users\李大王\source\repos\homework8\obj\Debug\homework8.csproj.GenerateResource.cache
+C:\Users\李大王\source\repos\homework8\obj\Debug\homework8.exe
+C:\Users\李大王\source\repos\homework8\obj\Debug\homework8.pdb
+C:\Users\李大王\source\repos\homework8\obj\Debug\homework8.csprojAssemblyReference.cache
+C:\Users\李大王\source\repos\homework8\obj\Debug\homework8.Form2.resources
+C:\Users\李大王\source\repos\homework8\obj\Debug\homework8.Form3.resources
